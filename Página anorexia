@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anorexia</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      background-color: #fdeef4;
+      color: #5b4b51;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #f8c9d4;
+      text-align: center;
+      padding: 2rem;
+      border-bottom: 3px solid #f2a8bc;
+    }
+    header h1 {
+      font-size: 2.2rem;
+      color: #70424d;
+      font-weight: 600;
+    }
+    header p {
+      color: #815b65;
+      font-style: italic;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: #fff4f8;
+      border-radius: 15px;
+      box-shadow: 0 0 10px rgba(255, 182, 193, 0.4);
+      padding: 2rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #b85c74;
+      border-left: 5px solid #f2a8bc;
+      padding-left: 10px;
+      font-weight: 600;
+    }
+    p, ul {
+      line-height: 1.6;
+      color: #6e5b63;
+    }
+    .highlight {
+      background-color: #ffe3ec;
+      padding: 0.5rem;
+      border-radius: 8px;
+      font-weight: 500;
+    }
+    footer {
+      text-align: center;
+      background-color: #f8c9d4;
+      padding: 1rem;
+      color: #70424d;
+      font-size: 0.9rem;
+      border-top: 3px solid #f2a8bc;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #f2a8bc;
+      color: white;
+      text-decoration: none;
+      padding: 0.6rem 1.2rem;
+      border-radius: 20px;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background-color: #e890a7;
+    }
+    .author {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #8b6b74;
+      margin-top: -1rem;
+      margin-bottom: 2rem;
+    }
+    .box {
+      background: #ffe6ee;
+      border-left: 5px solid #f2a8bc;
+      padding: 1rem;
+      border-radius: 10px;
+      margin: 1.5rem 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>💗 Anorexia y Sustancias Psicoactivas 💗</h1>
+    <p>Un espacio para entender con calma, sin juicios y con amor propio 🌷</p>
+  </header>
+  <div class="author">
+    <p>Por <strong>Valeria Muñoz González</strong> — 10º1 🌸</p>
+  </div>
+  <main>
+    <section>
+      <h2>🌸 ¿Qué es la anorexia?</h2>
+      <p>
+        La <span class="highlight">anorexia</span> es una condición en la que la persona pierde el apetito o el deseo de comer,
+        ya sea por causas emocionales, psicológicas o por el uso de sustancias psicoactivas.
+      </p>
+    </section>
+    <section class="box">
+      <h2>💗 Señales de alerta</h2>
+      <ul>
+        <li>Pérdida de peso repentina.</li>
+        <li>Miedo intenso a subir de peso.</li>
+        <li>Evitar comidas o mentir sobre si ya comió.</li>
+        <li>Obsesión por la apariencia física.</li>
+      </ul>
+    </section>
+    <section>
+      <h2>☁️ Sustancias psicoactivas y sus riesgos</h2>
+      <p>
+        Algunas personas consumen sustancias como alcohol, cigarrillos o drogas para reducir el apetito o controlar emociones,
+        pero esto causa daños físicos y mentales serios.
+      </p>
+    </section>
+    <section class="box">
+      <h2>💔 Efectos nocivos del consumo excesivo</h2>
+      <ul>
+        <li>Daños en órganos vitales.</li>
+        <li>Pérdida extrema de energía.</li>
+        <li>Desnutrición severa.</li>
+        <li>Depresión, ansiedad y aislamiento social.</li>
+      </ul>
+    </section>
+    <section class="box">
+      <h2>🌼 ¿Cómo cuidarte mejor?</h2>
+      <ul>
+        <li>Hablar con alguien de confianza.</li>
+        <li>Buscar ayuda de un profesional.</li>
+        <li>Rodearte de personas que te apoyen.</li>
+        <li>Recordar que tu cuerpo merece respeto y cuidado.</li>
+      </ul>
+    </section>
+    <section>
+      <h2>🌷 Cuidarte también es amor</h2>
+      <p>
+        Cuidarte no es solo comer, es escucharte, descansar, sentir y buscar ayuda cuando algo no está bien.  
+        Recuerda: mereces amor, cuidado y respeto todos los días 🌸.
+      </p>
+      <div style="text-align:center;">
+        <a href="https://www.who.int/es/health-topics/mental-health" class="btn" target="_blank">Conoce más 💕</a>
+      </div>
+    </section>
+  </main>
+  <footer>
+    🌸 Página creada por <strong>Valeria Muñoz González — 10º1</strong> 💗  
+  </footer>
+</body>
+</html>
